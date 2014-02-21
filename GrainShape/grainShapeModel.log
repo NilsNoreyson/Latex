@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.2.21)  21 FEB 2014 17:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.2.21)  21 FEB 2014 17:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,22 +454,30 @@ File: png/numerical_10LD.png Graphic file (type png)
 <use png/numerical_10LD.png>
 Package pdftex.def Info: png/numerical_10LD.png used on input line 19.
 (pdftex.def)             Requested size: 345.0pt x 258.74484pt.
- [2 <./png/schottky_10LD.png> <./png/numerical_10LD.png>] (./grainShapeModel.au
-x) ) 
+
+<png/compare_10LD.png, id=13, 1445.4pt x 1445.4pt>
+File: png/compare_10LD.png Graphic file (type png)
+ <use png/compare_10LD.png>
+Package pdftex.def Info: png/compare_10LD.png used on input line 21.
+(pdftex.def)             Requested size: 345.0pt x 344.9843pt.
+
+[2 <./png/schottky_10LD.png> <./png/numerical_10LD.png>] [3 <./png/compare_10LD
+.png>] (./grainShapeModel.aux) ) 
 Here is how much of TeX's memory you used:
- 2922 strings out of 493311
- 36882 string characters out of 6143650
+ 2927 strings out of 493311
+ 36997 string characters out of 6143650
  100096 words of memory out of 5000000
- 6342 multiletter control sequences out of 15000+600000
+ 6346 multiletter control sequences out of 15000+600000
  4850 words of font info for 18 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  37i,4n,24p,300b,119s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on grainShapeModel.pdf (2 pages, 134055 bytes).
+</usr/share/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb>
+Output written on grainShapeModel.pdf (3 pages, 324366 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
- 13 compressed objects within 1 object stream
+ 31 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
